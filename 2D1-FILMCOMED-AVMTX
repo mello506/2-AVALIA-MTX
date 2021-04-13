@@ -1,12 +1,10 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM AVALIA2[/B][/COLOR]</name>
+<item>
+<title>[COLOR orange][B]SELECIONE UM ITEM AVALIA3[/B][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A4-ACESSRESTMAISCONTE%C3%9ADO</externallink>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -24,16 +22,14 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]ACESSE + CONTEÚDO[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR white][B] PRÓXIMA PÁGINA[/B][/COLOR]</name>
+<item>
+<title>[COLOR white][B]ACESSE + CONTEÚDO[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR white][B] PRÓXIMA PÁGINA[/B][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A4-ACESSRESTMAISCONTE%C3%9ADO</externallink>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
 <genre>ACESSO PARA CONTRIBUINTES</genre> 
-</channel>
-</channels>
+</item>
 
 <item>
 <title>[COLOR orange][B] ACESSO GRATUITO INFORMAÇÕES [/B][/COLOR]</title>
