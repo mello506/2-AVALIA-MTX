@@ -1,9 +1,9 @@
 <item>
-<title>[COLOR orange][B]SELECIONE UM ITEM AVALIA3[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A4-ACESSRESTMAISCONTE%C3%9ADO</externallink>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO4[/B][/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -22,14 +22,6 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B]ACESSE + CONTEÚDO[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR white][B] PRÓXIMA PÁGINA[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A4-ACESSRESTMAISCONTE%C3%9ADO</externallink>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
-<genre>ACESSO PARA CONTRIBUINTES</genre> 
-</item>
 
 <item>
 <title>[COLOR orange][B] ACESSO GRATUITO INFORMAÇÕES [/B][/COLOR]</title>
@@ -47,14 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR white] ACESSO GRATUITO[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white]  No inicio do ciclo o acesso é TOTAL [/COLOR]
+<title>[COLOR white]  No inicio do ciclo mensal o acesso é TOTAL [/COLOR]
 [COLOR white]do dia 15 até dia 25 de cada mês.[/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
@@ -84,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR white]FAÇA SUA DOAÇÃO E TENHA ACESSO MAIS RÁPIDO [/COLOR]
+<title>[COLOR white]FAÇA SUA DOAÇÃO E TENHA ACESSO PERMANENTE [/COLOR]
 [COLOR white]E CONTEÚDOS EXCLUSIVOS CONTATE O SUPORTE[/COLOR]</title>
 <link>ignoreme</link>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -124,7 +109,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange][B] OBRIGADO PELA ATENÇÂO [/B][/COLOR]</title>
+<title>[COLOR orange][B] OBRIGADO PELA ATENÇÃO [/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg </fanart>
