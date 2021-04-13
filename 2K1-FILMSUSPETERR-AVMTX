@@ -71,6 +71,13 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR orange][B] ACESSO GRATUITO INFORMAÇÕES [/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
@@ -116,7 +123,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white]FAÇA SUA DOAÇÃO E TENHA ACESSO PERMANENTE[/COLOR]
-[COLOR white]E CONTEÚDOS EXCLUSIVOS CONTATE O SUPORTE[/COLOR]</title>
+[COLOR white]E INTEGRAL A TODO O CONTEÚDO CONTATE O SUPORTE[/COLOR]</title>
 <link>ignoreme</link>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
