@@ -1,10 +1,11 @@
-<item>
-<title>[COLOR orange][B]ESCOLHA UM ITEM [/B][/COLOR]</title>
-<link>NOLINK</link>
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM AVALIA [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</item>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -22,8 +23,9 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR white][B]ACESSE + CONTEÚDO[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR white][B] PRÓXIMA PÁGINA[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white][B]ACESSE + CONTEÚDO[/B][/COLOR][COLOR yellow] ->[/COLOR][COLOR white][B] PRÓXIMA PÁGINA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A4-ACESSRESTMAISCONTE%C3%9ADO</externallink>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -36,7 +38,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-</item>
+</channel>
+</channels>
 
 <item>
 <title>[COLOR white].[/COLOR]</title>
