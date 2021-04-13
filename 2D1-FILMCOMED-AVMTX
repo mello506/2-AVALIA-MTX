@@ -22,6 +22,12 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[COLOR oran
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR orange][B] ACESSO GRATUITO INFORMAÇÕES [/B][/COLOR]</title>
