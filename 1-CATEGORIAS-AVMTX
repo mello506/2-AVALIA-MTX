@@ -1,156 +1,153 @@
 <channels>
-<channel>			
-<name>[COLOR orange][B]*SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/1-CATEGORIAS-ALL.txt</externallink>			
-<thumbnail>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-01-MEN-CAB-ITEM-ICO.gif</thumbnail>				
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white][B]Nossa felicidade é fazer o USUÁRIO feliz.
-As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE,e incentiva nossa dedicação ao trabalho.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."
-[COLOR black].[/COLOR]
-FAÇA SUA ESCOLHA E DIVIRTA-SE.
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/B][/COLOR]</info>	
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM AVALIA [/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-
-<channels>
-<channel>
-<name>[COLOR white][B]*NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/E-00-SEL-NEW-ALL-ARQ.txt</externallink>
-<thumbnail>https://luminart.online/Add-on-v19/1-SKIN/E-00-SEL-NEW-ALL-ICO.gif</thumbnail>	
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]NOVIDADES DA SEMANA
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-			
-<channels>
-<channel>
-<name>[COLOR white][B]*FILMES[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/A-00-SEL-FLM-ALL-ARQ.txt</externallink>
-<thumbnail>https://luminart.online/Add-on-v19/1-SKIN/A-00-SEL-FLM-ALL-ICO.gif</thumbnail>
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]FILMES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Conteúdos em filmes para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]*SÉRIES[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/B-00-SEL-SRS-ALL-ARQ.txt</externallink>
-<thumbnail>https://luminart.online/Add-on-v19/1-SKIN/B-00-SEL-SRS-ALL-ICO.gif</thumbnail>
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]SÉRIES
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[COLOR white][B]LANÇAMENTOS [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/2Y-LANCAMENTOS-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/gwDwqtp/lancamentos.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>AS NOVIDADES EM FILMES É AQUI.NÃO ENCONTROU O QUE QUER ? SOLICITE NOS GRUPOS DE SUPORTE QUE ADICIONAMOS NO MENOR TEMPO POSSÍVEL. </info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/RQfCBBF/Filmes.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/2-SEL-GENFILM-AVMTX</externallink>
+<info>O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]*ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/C-00-SEL-ESP-ALL-ARQ.txt</externallink>
-<thumbnail>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A2-05-MEN-RET-ESP-ICO.gif</thumbnail>
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]ESPECIAIS
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/3-SELSERIES-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/5RSmfQb/Series.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>SUA MARATONA ESTA AQUI </info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]*NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/D-00-SEL-ESP-NST-ALL-ARQ.txt</externallink>
-<thumbnail>https://luminart.online/Add-on-v19/1-SKIN/D-00-SEL-ESP-NST-ALL-ICO.gif</thumbnail>
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]NOSTALGIA
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/4-SELANIMES-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/64sTrKP/animes.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>A CULTURA ANIME REPRESENTADA AQUI</info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]*TV ONLINE[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/F-00-SEL-TVS-ALL-ARQ.txt</externallink>
-<thumbnail>https://luminart.online/Add-on-v19/1-SKIN/F-00-SEL-TVS-ALL-ICO.gif</thumbnail>
-<fanart>https://luminart.online/Add-on-v19/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]TV ONLINE
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Seção com acessos a tvs gratuitas. Mais informações com o SUPORTE AO USUÁRIO
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
-Encontrou erros ? 
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[B][COLOR white]NOVELAS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/5-SELNOVELAS-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/S0mcdwp/Novelas.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR black].[/B][/COLOR]</name>
-<externallink>https://luminart.online/Add-on-v19/1-SKIN/1A-TESTES</externallink>
-<thumbnail>https://luminart.online/Lumi-Files/2-IMG/01-ISKIN/01-MENU/01-GERAL/IMG-GIF/LS-ICONE-ICO.gif</thumbnail>		
-<fanart>https://luminart.online/Lumi-Files/2-MEN/0-RET/0A1-04-MEN-ALL-LS-FAN-2.gif</fanart>
+<name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/6-SELDESENHOS-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/yRXsKBS/Desenhos.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR white]TVs ONLINE[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/3-SEL-LISTATVs-ALLUSER</externallink>
+<thumbnail>https://i.ibb.co/82qmMMR/TV-online.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A5-ACESSRESTR-PEDIDOSDO%20USUARIO</externallink>
+<thumbnail>https://i.ibb.co/bHMxTHL/Especiais.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>OS DESTAQUES DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR white]PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A5-ACESSRESTR-PEDIDOSDO%20USUARIO</externallink>
+<thumbnail>https://i.ibb.co/yNxkmtR/Pedidos.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>OS PEDIDOS DO USUÁRIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[B][COLOR white]NOVIDADES DA SEMANA[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/6-NOVIDADESDASEMANA</externallink>
+<thumbnail>https://i.ibb.co/rp84Sdp/novidades.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>OS PEDIDOS DO USUÁRIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[B][COLOR white]ACESSE CONTEUDO NO YOUTUBE[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-MENU-MTX/main/9-SELYOUTUBE-MTX</externallink>
+<thumbnail>https://i.ibb.co/MkRkcyp/youtube.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info> NOSSAS PLAYLISTS NO YOUTUBE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B] FILMES EM SERVIDORES ALTERNATIVOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/1A-SELFILM-ALTERNAV-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/tYgbxxG/Filmes.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>MUITAS LISTAS DE FILMES EM DIVERSOS SERVIDORES PARA EXPLORAR E DESFRUTAR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
